@@ -14,13 +14,13 @@
 
 - 无编程作业
 
-## lesson4: **Convolutional Neural Networks**
+## lesson4: Convolutional Neural Networks
 
 - [week1](https://github.com/douzujun/Deep-Learning-Coursera/tree/master/03.Convolutional%20Neural%20Networks/Week1)
 
 - [week2](https://github.com/douzujun/Deep-Learning-Coursera/tree/master/03.Convolutional%20Neural%20Networks/Week2/ResNets)
 
-## lesson5: **Sequence Model**
+## lesson5: Sequence Model
 
 - [week1](https://github.com/douzujun/Deep-Learning-Coursera/tree/master/04.Sequence%20Model/week1)
 
